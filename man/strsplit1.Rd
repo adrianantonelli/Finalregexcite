@@ -17,7 +17,3 @@ A char vector.
 \description{
 Split a string
 }
-\examples{
-x <- "alfa,bravo,charlie,delta"
-strsplit1(x, split = ",")
-}
